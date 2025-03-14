@@ -125,7 +125,7 @@ The **Cybersecurity Topical Requirement** is a framework ensuring internal audit
 
 🚀 **Follow this repository** for updates on cybersecurity best practices and audit frameworks.  
 
-📩 **Contact**: [Your Contact Info]  
+📩 **Contact**: [https://www.linkedin.com/in/sheldon-brown-cybersecurity/]  
 
 ---
 
